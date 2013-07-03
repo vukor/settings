@@ -1,4 +1,4 @@
 settings
 ========
 
-My settings for some applications
+My settings for home applications
