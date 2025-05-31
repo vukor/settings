@@ -1,6 +1,6 @@
 [user]
 	name = Anton Bugreev
-	email = anton@bugreev.ru
+	email = bugreev.anton@gmail.com
 [alias]
 	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
 	co = checkout
